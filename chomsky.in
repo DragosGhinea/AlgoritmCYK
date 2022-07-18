@@ -1,0 +1,9 @@
+S
+S -> B*A
+A -> B*A | C*A
+B -> A*A | A*B
+C -> B*C | B*B
+
+A -> a
+B -> b
+C -> c
