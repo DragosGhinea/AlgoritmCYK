@@ -83,6 +83,6 @@ C -> c #...
 
 Gramatica din input-ul anterior si un cuvant de test cu tabelul CYK asociat cuvantului:
 
-[Gramatica](https://github.com/DragosGhinea/AlgoritmCYK/blob/main/poza1.png)
+![Gramatica](https://github.com/DragosGhinea/AlgoritmCYK/blob/main/poza1.png)
 
-[Gramatica2](https://github.com/DragosGhinea/AlgoritmCYK/blob/main/poza2.png)
+![Gramatica2](https://github.com/DragosGhinea/AlgoritmCYK/blob/main/poza2.png)
